@@ -1,6 +1,6 @@
-# Sample Hardhat Project
+# Buy Me A Coffee Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Here I put Buy Me A Coffee project, learned from Alchemy Road to Web 3, and I'm gonna customize it soon.
 
 Try running some of the following tasks:
 
